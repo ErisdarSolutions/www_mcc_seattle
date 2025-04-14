@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MCC Seattle</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>about.html</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Dev/about.html</locationURI>
+		</link>
+		<link>
+			<name>main.html</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Dev/main.html</locationURI>
+		</link>
+		<link>
+			<name>projs.html</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Dev/projs.html</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
