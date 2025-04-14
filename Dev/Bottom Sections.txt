@@ -1,0 +1,177 @@
+@brief 		Bottom Sections
+@details 	x
+@auth		Justin Reina
+@date 		4/2/25
+
+
+@section 	New
+
+	<table style="width:100%;text-align: center;">	
+		<tr>
+			<td style="width:50%">1234</td>
+			<td style="width:50%">5678</td>
+		</tr>
+		<tr>
+			<td style="width:50%">ABCD</td>
+			<td style="width:50%">EFGH</td>
+		</tr>
+	</table>
+
+@section 	New
+
+//@open	CHANGE IMAGES TO YOUR OWN
+
+	<table style="width:100%;text-align: center;">	
+		<tr>
+			<td style="width:50%">MBAK MEMBER			
+				<a href="https://www.mbaks.com/about">
+					<img decoding="async" width="150" height="150" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=150%2C150&amp;ssl=1" class="elementor-animation-shrink attachment-thumbnail size-thumbnail wp-image-261" alt="Blue Logo stating MBA Master Builders Association of King and Snohomish Counties" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=220%2C220&amp;ssl=1 220w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?zoom=3&amp;resize=150%2C150&amp;ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" />
+				</a>
+				<p>
+					MCC is a commercial construction member of the <a href="https://www.mbaks.com/about"><strong><u>Master Builder&#8217;s Association</u></strong></a> of King and Snohomish Counties.
+				</p>
+			</td>
+			<td style="width:50%">BUILT GREEN MEMBER					
+				<a href="https://www.builtgreen.net/">
+					<img decoding="async" width="300" height="89" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?fit=300%2C89&amp;ssl=1" class="elementor-animation-shrink attachment-medium size-medium wp-image-266" alt="Built Green Member Primary Logo" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?w=1500&amp;ssl=1 1500w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=300%2C89&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=1024%2C302&amp;ssl=1 1024w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=768%2C227&amp;ssl=1 768w" sizes="(max-width: 300px) 100vw, 300px" />
+				</a>
+				<p>
+					MCC participates in the MBAK&#8217;s <a href="https://www.builtgreen.net/"><strong><u>Built Green</u></strong></a> certification of projects as earth friendly using green methods.
+				</p>			
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%">REAL ESTATE
+				<a href="https://mreseattle.com/">
+					<img fetchpriority="high" decoding="async" width="300" height="172" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?fit=300%2C172&amp;ssl=1" class="elementor-animation-shrink attachment-medium size-medium wp-image-435" alt="MRE Logo for Metro Real Estate in Seattle, Wa" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?w=1175&amp;ssl=1 1175w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=1024%2C588&amp;ssl=1 1024w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=768%2C441&amp;ssl=1 768w" sizes="(max-width: 300px) 100vw, 300px" />
+				</a>
+				<p>
+					MCC is proud to partner with <a href="https://www.mreseattle.com/"><strong><u>MRE</u></strong></a> to provide Commercial Real Estate services to the greater Seattle area.
+				</p>			
+			</td>
+			<td style="width:50%">CONTACT US TODAY
+				<a href="https://mccseattle.com/contact/">
+					<img loading="lazy" decoding="async" width="274" height="170" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/08/MCC-general-contractor-logo-colorsmall.png?fit=274%2C170&amp;ssl=1" class="elementor-animation-shrink attachment-large size-large wp-image-687" alt="Metro Construction Corp Small Logo In Blue Font Saying MCC General Contractor" />
+				</a>
+				<p>
+					MCC would be honored to be part of your next project. Have a question? Want to know how to get started? Contact us <a href="https://mccseattle.com/contact/">here</a>. 
+				</p>			
+			</td>
+		</tr>
+	</table>
+
+
+
+@section 	Original
+	<section class="elementor-section elementor-top-section elementor-element elementor-element-7995fb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7995fb2" data-element_type="section">
+	<div class="elementor-container elementor-column-gap-default">
+	<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d936056" data-id="d936056" data-element_type="column">
+	<div class="elementor-widget-wrap elementor-element-populated">
+	<section class="elementor-section elementor-inner-section elementor-element elementor-element-63a82b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="63a82b8" data-element_type="section">
+	<div class="elementor-container elementor-column-gap-extended">
+	<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-69a951a" data-id="69a951a" data-element_type="column">
+	<div class="elementor-widget-wrap elementor-element-populated">
+	<div class="elementor-element elementor-element-1f8983f elementor-widget elementor-widget-heading" data-id="1f8983f" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-large"><a href="https://www.mbaks.com/about">MBAK MEMBER</a></h2>				</div>
+	</div>
+	<div class="elementor-element elementor-element-3dc2541 elementor-widget elementor-widget-image" data-id="3dc2541" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<a href="https://www.mbaks.com/about">
+	<img decoding="async" width="150" height="150" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=150%2C150&amp;ssl=1" class="elementor-animation-shrink attachment-thumbnail size-thumbnail wp-image-261" alt="Blue Logo stating MBA Master Builders Association of King and Snohomish Counties" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?resize=220%2C220&amp;ssl=1 220w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Vertical-navy-MBAKS-logo-for-web.png?zoom=3&amp;resize=150%2C150&amp;ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-d4532d7 elementor-widget elementor-widget-text-editor" data-id="d4532d7" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>MCC is a commercial construction member of the <a href="https://www.mbaks.com/about"><strong><u>Master Builder&#8217;s Association</u></strong></a> of King and Snohomish Counties.</p>								</div>
+	</div>
+	<div class="elementor-element elementor-element-1bd9382 elementor-widget elementor-widget-spacer" data-id="1bd9382" data-element_type="widget" data-widget_type="spacer.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-spacer">
+	<div class="elementor-spacer-inner"></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-04dabc1" data-id="04dabc1" data-element_type="column">
+	<div class="elementor-widget-wrap elementor-element-populated">
+	<div class="elementor-element elementor-element-4577c0e elementor-widget elementor-widget-heading" data-id="4577c0e" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-large"><a href="https://www.builtgreen.net/">BUILT GREEN MEMBER</a></h2>				</div>
+	</div>
+	<div class="elementor-element elementor-element-78c88fe elementor-widget elementor-widget-spacer" data-id="78c88fe" data-element_type="widget" data-widget_type="spacer.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-spacer">
+	<div class="elementor-spacer-inner"></div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-dcd2aa0 elementor-widget elementor-widget-image" data-id="dcd2aa0" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<a href="https://www.builtgreen.net/">
+	<img decoding="async" width="300" height="89" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?fit=300%2C89&amp;ssl=1" class="elementor-animation-shrink attachment-medium size-medium wp-image-266" alt="Built Green Member Primary Logo" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?w=1500&amp;ssl=1 1500w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=300%2C89&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=1024%2C302&amp;ssl=1 1024w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/03/Built-Green-Member-Primary-Logo-RGB.png?resize=768%2C227&amp;ssl=1 768w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-e04b2e6 elementor-widget elementor-widget-text-editor" data-id="e04b2e6" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>MCC participates in the MBAK&#8217;s <a href="https://www.builtgreen.net/"><strong><u>Built Green</u></strong></a> certification of projects as earth friendly using green methods.</p>								</div>
+	</div>
+	<div class="elementor-element elementor-element-33f9fd6 elementor-widget elementor-widget-spacer" data-id="33f9fd6" data-element_type="widget" data-widget_type="spacer.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-spacer">
+	<div class="elementor-spacer-inner"></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</section>
+	<section class="elementor-section elementor-inner-section elementor-element elementor-element-2ae3094 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ae3094" data-element_type="section">
+	<div class="elementor-container elementor-column-gap-default">
+	<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-86c3bbf" data-id="86c3bbf" data-element_type="column">
+	<div class="elementor-widget-wrap elementor-element-populated">
+	<div class="elementor-element elementor-element-51ff2aa elementor-widget elementor-widget-heading" data-id="51ff2aa" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-large"><a href="https://mreseattle.com/">REAL ESTATE</a></h2>				</div>
+	</div>
+	<div class="elementor-element elementor-element-1972ba5 elementor-widget elementor-widget-image" data-id="1972ba5" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<a href="https://mreseattle.com/">
+	<img fetchpriority="high" decoding="async" width="300" height="172" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?fit=300%2C172&amp;ssl=1" class="elementor-animation-shrink attachment-medium size-medium wp-image-435" alt="MRE Logo for Metro Real Estate in Seattle, Wa" srcset="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?w=1175&amp;ssl=1 1175w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=1024%2C588&amp;ssl=1 1024w, https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/04/MRE-Logo-Example.png?resize=768%2C441&amp;ssl=1 768w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-d5b98f8 elementor-widget elementor-widget-spacer" data-id="d5b98f8" data-element_type="widget" data-widget_type="spacer.default">
+	<div class="elementor-widget-container">
+	<div class="elementor-spacer">
+	<div class="elementor-spacer-inner"></div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-bf0b986 elementor-widget elementor-widget-text-editor" data-id="bf0b986" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>MCC is proud to partner with <a href="https://www.mreseattle.com/"><strong><u>MRE</u></strong></a> to provide Commercial Real Estate services to the greater Seattle area.</p>								</div>
+	</div>
+	</div>
+	</div>
+	<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f13f22b" data-id="f13f22b" data-element_type="column">
+	<div class="elementor-widget-wrap elementor-element-populated">
+	<div class="elementor-element elementor-element-c0ccd76 elementor-widget elementor-widget-heading" data-id="c0ccd76" data-element_type="widget" data-widget_type="heading.default">
+	<div class="elementor-widget-container">
+	<h2 class="elementor-heading-title elementor-size-large"><a href="https://mccseattle.com/contact/">CONTACT US TODAY</a></h2>				</div>
+	</div>
+	<div class="elementor-element elementor-element-ce4c3c8 elementor-widget elementor-widget-image" data-id="ce4c3c8" data-element_type="widget" data-widget_type="image.default">
+	<div class="elementor-widget-container">
+	<a href="https://mccseattle.com/contact/">
+	<img loading="lazy" decoding="async" width="274" height="170" src="https://i0.wp.com/mccseattle.com/wp-content/uploads/2020/08/MCC-general-contractor-logo-colorsmall.png?fit=274%2C170&amp;ssl=1" class="elementor-animation-shrink attachment-large size-large wp-image-687" alt="Metro Construction Corp Small Logo In Blue Font Saying MCC General Contractor" />								</a>
+	</div>
+	</div>
+	<div class="elementor-element elementor-element-925c913 elementor-widget elementor-widget-text-editor" data-id="925c913" data-element_type="widget" data-widget_type="text-editor.default">
+	<div class="elementor-widget-container">
+	<p>MCC would be honored to be part of your next project. Have a question? Want to know how to get started? Contact us <a href="https://mccseattle.com/contact/">here</a>. </p>								</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</section>
